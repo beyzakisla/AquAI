@@ -1,0 +1,21 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/beyzakisla/Frontend.git
+[submodule "Backend-Template"]
+	path = Backend-Template
+	url = https://github.com/beyzakisla/Backend-Template.git
+[submodule "API"]
+	path = API
+	url = https://github.com/beyzakisla/API.git
+[submodule "Image-to-Data"]
+	path = Image-to-Data
+	url = https://github.com/beyzakisla/Image-to-Data.git
+[submodule "Border"]
+	path = Border
+	url = https://github.com/beyzakisla/Border.git
+[submodule "Lake-Data"]
+	path = Lake-Data
+	url = https://github.com/beyzakisla/Lake-Data.git
+[submodule "AquAI-sql"]
+	path = AquAI-sql
+	url = https://github.com/beyzakisla/AquAI-sql.git
